@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @NaotoKubota, a postdoc at UC Riverside
 - 👀 I’m interested in computational genomics and transcriptomics
-- 🌱 I’m currently studying splicing regulation in the mammalian brain
+- 🌱 I’m currently studying RNA splicing regulation in the mammalian brain
 - 📫 How to reach me: naotok at ucr.edu
 
 <!---
