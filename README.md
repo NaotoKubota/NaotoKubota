@@ -7,16 +7,7 @@
 
 <p></p>
 
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat">
-<img src="https://img.shields.io/badge/-Bash-4EAA25.svg?logo=gnu-bash&style=flat">
-<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat">
-<img src="https://img.shields.io/badge/-MacOS-000000.svg?logo=apple&style=flat">
-<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat">
-<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat">
-<img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat">
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
-<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat"> <img src="https://img.shields.io/badge/-Bash-4EAA25.svg?logo=gnu-bash&style=flat"> <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat"> <img src="https://img.shields.io/badge/-MacOS-000000.svg?logo=apple&style=flat"> <img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat"> <img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat"> <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat"> <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 
 <p></p>
 
