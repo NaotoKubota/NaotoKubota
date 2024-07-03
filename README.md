@@ -1,7 +1,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaotoKubota&show_icons=true&rank_icon=github&bg_color=white&title_color=434d58" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaotoKubota&layout=donut&langs_count=8&card_width=320&title_color=434d58" />
 </a>
 
