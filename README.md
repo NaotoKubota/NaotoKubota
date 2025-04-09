@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaotoKubota&show_icons=true&rank_icon=github&bg_color=white&title_color=434d58" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaotoKubota&show_icons=true&rank_icon=default" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaotoKubota&layout=donut&langs_count=8&card_width=320&title_color=434d58" />
@@ -16,6 +16,14 @@
 - 👀 I’m interested in computational genomics and transcriptomics
 - 🌱 I’m currently studying RNA splicing regulation in the mammalian brain
 - 📫 How to reach me: naotok at ucr.edu
+
+## My latest publication
+
+[Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
+**Naoto Kubota**, Liang Chen, Sika Zheng.<br>
+_**Nucleic Acids Research**_ 53(4), 2025, gkaf098.
+
+![Fig_Kubota2025_1](https://raw.githubusercontent.com/NaotoKubota/NaotoKubota.github.io/master/assets/images/Fig_Kubota2025_1.png)
 
 <!---
 NaotoKubota/NaotoKubota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
