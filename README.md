@@ -17,7 +17,7 @@
 - 🌱 I’m currently studying RNA splicing regulation in the mammalian brain
 - 📫 How to reach me: naotok at ucr.edu
 
-## My latest publication
+## Featured publication
 
 [Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
 **Naoto Kubota**, Liang Chen, Sika Zheng.<br>
